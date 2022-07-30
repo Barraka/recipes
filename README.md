@@ -1,0 +1,1 @@
+The project is about creating a simple web page for recipes.
